@@ -1,2 +1,2 @@
-# caminso-de-luz-full
-tu mundo es mejor
+# Proyecto Funerales Caminos de Luz
+Proyecto base listo para Vercel.
